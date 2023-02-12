@@ -95,20 +95,3 @@ plt.show()
 #y-axis is for the values, x-axis is for the position
 
 
-# In[10]:
-
-
-As we can see here, 
-
-
-# In[ ]:
-
-
-
-
-
-# In[ ]:
-
-
-
-
